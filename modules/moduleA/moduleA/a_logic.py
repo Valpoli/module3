@@ -1,2 +1,2 @@
 def do_a_stuff():
-    return "Je suis le module A, tmtc hihidfocklksdjnhjkfskj"
+    return "Je suis le module A, testestest"
